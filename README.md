@@ -13,7 +13,7 @@
   <h3>🌟 A modern corporate shuttle booking and management platform 🌟</h3>
   <p>Streamlining employee transportation with real-time tracking, scheduling, and analytics</p>
 
-  **[🎨 Figma Design](https://www.figma.com/file/your-link)** | 
+  **[🎨 Figma Design](https://www.figma.com/design/LWnzJsg1s7LnQDd8BM5wRH/UrbanMove?node-id=0-1&t=GVABVH8JJMfLgXh8-1)** | 
   **[🌐 Live Project](https://urbaanmovebyvishwa.vercel.app/)** | 
   **[📄 Postman Documentation](https://documenter.getpostman.com/view/50839381/2sBXqKoLCy)** | 
   **[🖥️ Backend Link](https://urbaanmove-backend.onrender.com/)** | 
