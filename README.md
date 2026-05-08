@@ -17,7 +17,7 @@
   **[🌐 Live Project](https://urbaanmovebyvishwa.vercel.app/)** | 
   **[📄 Postman Documentation](https://documenter.getpostman.com/view/50839381/2sBXqKoLCy)** | 
   **[🖥️ Backend Link](https://urbaanmove-backend.onrender.com/)** | 
-  **[🎥 YouTube Demo](https://youtu.be/cRTHCE5w_r4)**
+  **[🎥 YouTube Demo](https://www.youtube.com/watch?v=QytOqI21TuQ&t=63s)**
 </div>
 
 ## 📌 Problem Statement
